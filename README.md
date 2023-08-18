@@ -1,3 +1,3 @@
 git add --all <br>
-git commit -m "nazwa zmian"
-git push origin main 
+git commit -m "nazwa zmian" <br>
+git push origin main <br>
